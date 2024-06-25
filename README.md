@@ -4,7 +4,7 @@ Welcome to the Computer Security Sessional course repository for CSE-406. This r
 
 
 
-This course introduces students to various cryptosystem which is used for  encryption and decryption .
+This course contains two offlines, one online , project and and quiz
 
 
 ## Offlines
